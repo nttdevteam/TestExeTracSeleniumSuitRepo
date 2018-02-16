@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1">
+
+<!-- 	<test name="TC001_ValidateLoginFunctionality">
+		<classes>
+			<class name="org.selenium.TestCases.TC001_ValidateLoginFunctionality" />
+		</classes>
+	</test>
+	 -->
+<!-- 	<test name="TC002_RegLikedin">
+		<classes>
+			<class name="org.selenium.TestCases.TC002_RegLikedin" />
+		</classes>
+	</test>
+
+
+<test name="TC002_RegLikedin">
+		<classes>
+			<class name="org.selenium.TestCases.TC002_RegLikedin" />
+		</classes>
+	</test> -->
+	
+	<test name="TC003_DevOpsSeleniumTest">
+		<classes>
+			<class name="org.selenium.TestCases.TC003_DevOpsSeleniumTest" />
+		</classes>
+	</test>
+	
+</suite>  

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="TC003_DevOpsSeleniumTest(failed)">
+    <classes>
+      <class name="org.selenium.TestCases.TC003_DevOpsSeleniumTest">
+        <methods>
+          <include name="tc003_SeleniumTest"/>
+          <include name="initiateDriverInstance"/>
+        </methods>
+      </class> <!-- org.selenium.TestCases.TC003_DevOpsSeleniumTest -->
+    </classes>
+  </test> <!-- TC003_DevOpsSeleniumTest(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
